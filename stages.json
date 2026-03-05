@@ -1,0 +1,273 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "name": "入门",
+      "nameEn": "Beginner",
+      "stages": [
+        {
+          "stage": 1,
+          "target": 150,
+          "rounds": 5,
+          "reward": 20,
+          "description": "热身关"
+        },
+        {
+          "stage": 2,
+          "target": 250,
+          "rounds": 5,
+          "reward": 25,
+          "description": "学会combo"
+        },
+        {
+          "stage": 3,
+          "target": 400,
+          "rounds": 4,
+          "reward": 30,
+          "description": "准备迎接Boss"
+        }
+      ],
+      "boss": {
+        "name": "控烟办主任",
+        "nameEn": "Smoking Control Officer",
+        "target": 600,
+        "rounds": 5,
+        "reward": 50,
+        "mechanic": "seal_brand",
+        "description": "每回合随机封印1个品牌",
+        "dialogue": [
+          "根据《公共场所控制吸烟条例》，您不能在这里吸烟。",
+          "我也没办法，上面有规定。",
+          "请配合工作。",
+          "罚款200元，下次注意。"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "进阶",
+      "nameEn": "Intermediate",
+      "stages": [
+        {
+          "stage": 1,
+          "target": 500,
+          "rounds": 4,
+          "reward": 35,
+          "description": "产地combo登场"
+        },
+        {
+          "stage": 2,
+          "target": 700,
+          "rounds": 4,
+          "reward": 40,
+          "description": "目标提高"
+        },
+        {
+          "stage": 3,
+          "target": 900,
+          "rounds": 4,
+          "reward": 45,
+          "description": "需要策略"
+        },
+        {
+          "stage": 4,
+          "target": 1100,
+          "rounds": 4,
+          "reward": 50,
+          "description": "Boss前的考验"
+        }
+      ],
+      "boss": {
+        "name": "假烟贩子",
+        "nameEn": "Counterfeit Dealer",
+        "target": 1000,
+        "rounds": 5,
+        "reward": 80,
+        "mechanic": "counterfeit",
+        "description": "每回合1-2张手牌变假烟(负分)",
+        "dialogue": [
+          "老板，这可是正品，你看这个防伪标……",
+          "便宜没好货？不不不，这是渠道优势。",
+          "要不要来一条？批发价。",
+          "假的？你懂什么叫高仿吗？"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "精通",
+      "nameEn": "Advanced",
+      "stages": [
+        {
+          "stage": 1,
+          "target": 1200,
+          "rounds": 4,
+          "reward": 55,
+          "description": "年代combo登场"
+        },
+        {
+          "stage": 2,
+          "target": 1500,
+          "rounds": 4,
+          "reward": 60,
+          "description": "组合拳"
+        },
+        {
+          "stage": 3,
+          "target": 1800,
+          "rounds": 4,
+          "reward": 65,
+          "description": "高手过招"
+        },
+        {
+          "stage": 4,
+          "target": 2200,
+          "rounds": 4,
+          "reward": 70,
+          "description": "准备被查"
+        }
+      ],
+      "boss": {
+        "name": "海关总署",
+        "nameEn": "Customs Bureau",
+        "target": 2000,
+        "rounds": 5,
+        "reward": 120,
+        "mechanic": "seize_legendary",
+        "description": "限定烟被扣押，每2回合释放1张(-20烟票)",
+        "dialogue": [
+          "请出示您的申报单。",
+          "超过免税额度了，请到那边办理手续。",
+          "这批货需要查验。",
+          "交完税就可以拿走了。"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "收藏家",
+      "nameEn": "Collector",
+      "stages": [
+        {
+          "stage": 1,
+          "target": 2500,
+          "rounds": 4,
+          "reward": 75,
+          "description": "全要素整合"
+        },
+        {
+          "stage": 2,
+          "target": 3000,
+          "rounds": 4,
+          "reward": 80,
+          "description": "需要完美构筑"
+        },
+        {
+          "stage": 3,
+          "target": 3500,
+          "rounds": 4,
+          "reward": 85,
+          "description": "压力测试"
+        },
+        {
+          "stage": 4,
+          "target": 4000,
+          "rounds": 3,
+          "reward": 90,
+          "description": "最终考验"
+        },
+        {
+          "stage": 5,
+          "target": 5000,
+          "rounds": 3,
+          "reward": 100,
+          "description": "通往最终Boss"
+        }
+      ],
+      "boss": {
+        "name": "戒烟意志",
+        "nameEn": "Willpower to Quit",
+        "target": 4000,
+        "rounds": 6,
+        "reward": 200,
+        "mechanic": "diminishing_returns",
+        "description": "每打出1张烟，下一张-10%(每3回合重置)",
+        "dialogue": [
+          "你真的需要再来一根吗？",
+          "想想你的肺。",
+          "已经是第三包了……",
+          "再抽下去身体会垮的。",
+          "你能戒掉的，我相信你。"
+        ]
+      }
+    }
+  ],
+  "hiddenChapter": {
+    "id": 5,
+    "name": "黑市",
+    "nameEn": "Black Market",
+    "unlockCondition": "全收集",
+    "stages": [
+      {
+        "stage": 1,
+        "target": 6000,
+        "rounds": 3,
+        "reward": 150,
+        "description": "地下交易"
+      },
+      {
+        "stage": 2,
+        "target": 8000,
+        "rounds": 3,
+        "reward": 200,
+        "description": "走私路线"
+      },
+      {
+        "stage": 3,
+        "target": 10000,
+        "rounds": 3,
+        "reward": 250,
+        "description": "最终挑战"
+      }
+    ],
+    "boss": {
+      "name": "烟草总局",
+      "nameEn": "Tobacco Administration",
+      "target": 15000,
+      "rounds": 6,
+      "reward": 500,
+      "mechanic": "all_mechanics",
+      "description": "综合所有Boss技能，每5回合切换",
+      "dialogue": [
+        "市场需要规范。",
+        "专卖制度是有原因的。",
+        "你的经营许可证呢？",
+        "这是国家战略，不是你能插手的。"
+      ]
+    }
+  },
+  "starterDeck": {
+    "guaranteed": [
+      "doublehappiness_80s",
+      "doublehappiness_90s",
+      "redplum_80s",
+      "redplum_90s",
+      "baisha_90s"
+    ],
+    "randomPool": [
+      "hatamen_80s",
+      "daqianmen_80s",
+      "baisha_00s",
+      "liqun_00s",
+      "liqun_10s",
+      "yunyan_90s",
+      "hongta_90s",
+      "septwolves_00s",
+      "zhongnanhai_00s",
+      "goldenleaf_10s"
+    ],
+    "randomCount": 10
+  },
+  "starterAshtray": "glass_ashtray",
+  "startingTickets": 50
+}

@@ -1,0 +1,187 @@
+{
+  "smuggled": [
+    {
+      "id": "duty_free",
+      "name": "免税烟",
+      "nameEn": "Duty Free Pack",
+      "rarity": 2,
+      "effect": "free_purchase",
+      "description": "下次商店购买免费",
+      "flavor": "机场免税店的好处。",
+      "price": 20
+    },
+    {
+      "id": "counterfeit_detector",
+      "name": "假烟鉴定器",
+      "nameEn": "Counterfeit Detector",
+      "rarity": 2,
+      "effect": "reveal_fake",
+      "description": "揭示Boss下回合封印/假烟",
+      "flavor": "紫外线灯，一照便知。",
+      "price": 18
+    },
+    {
+      "id": "express_package",
+      "name": "快递包裹",
+      "nameEn": "Express Package",
+      "rarity": 2,
+      "effect": "random_packs",
+      "value": 2,
+      "description": "随机获得2张烟盒",
+      "flavor": "快递小哥冒雨送到。",
+      "price": 22
+    },
+    {
+      "id": "channel_gift",
+      "name": "渠道赠品",
+      "nameEn": "Channel Gift",
+      "rarity": 2,
+      "effect": "random_ashtray",
+      "description": "随机获得1个烟灰缸",
+      "flavor": "关系户才有的福利。",
+      "price": 25
+    },
+    {
+      "id": "rebate_coupon",
+      "name": "返点券",
+      "nameEn": "Rebate Coupon",
+      "rarity": 2,
+      "effect": "extra_tickets",
+      "value": 30,
+      "description": "立即获得30烟票",
+      "flavor": "走量的好处。",
+      "price": 15
+    },
+    {
+      "id": "customs_pass",
+      "name": "海关通行证",
+      "nameEn": "Customs Pass",
+      "rarity": 3,
+      "effect": "immunity_seize",
+      "description": "本局限定烟不被扣押",
+      "flavor": "有人在里面。",
+      "price": 35
+    },
+    {
+      "id": "black_market_card",
+      "name": "黑市名片",
+      "nameEn": "Black Market Card",
+      "rarity": 3,
+      "effect": "rare_shop",
+      "description": "下次商店全是稀有品",
+      "flavor": "神秘电话号码。",
+      "price": 40
+    },
+    {
+      "id": "bonded_warehouse",
+      "name": "保税仓库",
+      "nameEn": "Bonded Warehouse",
+      "rarity": 3,
+      "effect": "copy_ashtray",
+      "description": "复制1个已有烟灰缸",
+      "flavor": "自贸区的好处。",
+      "price": 50
+    },
+    {
+      "id": "brand_switch",
+      "name": "改头换面",
+      "nameEn": "Brand Switch",
+      "rarity": 3,
+      "effect": "change_brand",
+      "description": "选1张牌变成任意品牌",
+      "flavor": "换个包装，继续卖。",
+      "price": 35
+    },
+    {
+      "id": "smuggle_ship",
+      "name": "走私船票",
+      "nameEn": "Smuggle Ship Ticket",
+      "rarity": 4,
+      "effect": "skip_boss",
+      "description": "跳过当前Boss",
+      "flavor": "今晚就出海。",
+      "price": 80
+    },
+    {
+      "id": "money_laundry",
+      "name": "洗钱机",
+      "nameEn": "Money Launderer",
+      "rarity": 4,
+      "effect": "double_tickets",
+      "description": "当前烟票×2",
+      "flavor": "合法合规（？）",
+      "price": 100
+    },
+    {
+      "id": "diplomatic_immunity",
+      "name": "外交豁免",
+      "nameEn": "Diplomatic Immunity",
+      "rarity": 4,
+      "effect": "chapter_immunity",
+      "description": "本章免疫所有Boss技能",
+      "flavor": "外交官护照。",
+      "price": 120
+    },
+    {
+      "id": "insider_info",
+      "name": "内部消息",
+      "nameEn": "Insider Info",
+      "rarity": 4,
+      "effect": "reveal_deck",
+      "value": 5,
+      "description": "查看牌库顶5张",
+      "flavor": "有人透风。",
+      "price": 30
+    },
+    {
+      "id": "panda_breeding",
+      "name": "熊猫繁殖证",
+      "nameEn": "Panda Breeding License",
+      "rarity": 5,
+      "effect": "copy_legendary",
+      "description": "复制所有熊猫品牌烟",
+      "flavor": "国宝级待遇。",
+      "price": 200
+    },
+    {
+      "id": "time_machine",
+      "name": "时光机",
+      "nameEn": "Time Machine",
+      "rarity": 5,
+      "effect": "restart_stage",
+      "description": "重新开始本关(保留升级)",
+      "flavor": "如果能重来...",
+      "price": 150
+    },
+    {
+      "id": "monopoly_right",
+      "name": "烟草垄断权",
+      "nameEn": "Tobacco Monopoly",
+      "rarity": 5,
+      "effect": "permanent_upgrade",
+      "description": "所有烟+1★稀有度(永久)",
+      "flavor": "专卖局的权力。",
+      "price": 300
+    },
+    {
+      "id": "era_eraser",
+      "name": "年代橡皮擦",
+      "nameEn": "Era Eraser",
+      "rarity": 5,
+      "effect": "all_wildcard_era",
+      "description": "本局所有牌年代通配",
+      "flavor": "时间线什么的无所谓了。",
+      "price": 180
+    },
+    {
+      "id": "nuclear_option",
+      "name": "核选项",
+      "nameEn": "Nuclear Option",
+      "rarity": 5,
+      "effect": "instant_win",
+      "description": "直接通过当前关卡",
+      "flavor": "最后手段。",
+      "price": 500
+    }
+  ]
+}

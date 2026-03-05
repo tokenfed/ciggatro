@@ -1,0 +1,230 @@
+{
+  "lighters": [
+    {
+      "id": "disposable",
+      "name": "一次性打火机",
+      "nameEn": "Disposable Lighter",
+      "rarity": 1,
+      "effect": "random_boost",
+      "value": 10,
+      "description": "随机1张牌+10基础分",
+      "flavor": "便利店1块钱。",
+      "price": 8
+    },
+    {
+      "id": "zippo_classic",
+      "name": "Zippo经典款",
+      "nameEn": "Zippo Classic",
+      "rarity": 1,
+      "effect": "add_gilded",
+      "description": "选1张牌变镀金(+15分)",
+      "flavor": "咔嗒一声，仪式感。",
+      "price": 12
+    },
+    {
+      "id": "windproof",
+      "name": "防风打火机",
+      "nameEn": "Windproof Lighter",
+      "rarity": 1,
+      "effect": "add_sealed",
+      "description": "选1张牌封印(不可弃)",
+      "flavor": "大风也点得着。",
+      "price": 10
+    },
+    {
+      "id": "electric_arc",
+      "name": "电弧打火机",
+      "nameEn": "Electric Arc Lighter",
+      "rarity": 1,
+      "effect": "boost_slim",
+      "value": 15,
+      "description": "细支烟本局+15分",
+      "flavor": "科技感拉满。",
+      "price": 10
+    },
+    {
+      "id": "usb_lighter",
+      "name": "USB充电打火机",
+      "nameEn": "USB Rechargeable",
+      "rarity": 2,
+      "effect": "add_holo",
+      "description": "选1张牌变全息(+20%烟票)",
+      "flavor": "充电五分钟，点烟一整天。",
+      "price": 15
+    },
+    {
+      "id": "kerosene",
+      "name": "煤油打火机",
+      "nameEn": "Kerosene Lighter",
+      "rarity": 2,
+      "effect": "swap_brand",
+      "description": "交换2张牌的品牌",
+      "flavor": "复古的味道。",
+      "price": 18
+    },
+    {
+      "id": "cigar_cutter",
+      "name": "雪茄剪火机",
+      "nameEn": "Cigar Cutter Lighter",
+      "rarity": 2,
+      "effect": "boost_cigar",
+      "value": 50,
+      "description": "雪茄型本局+50分",
+      "flavor": "专业装备。",
+      "price": 20
+    },
+    {
+      "id": "torch_lighter",
+      "name": "喷枪打火机",
+      "nameEn": "Torch Lighter",
+      "rarity": 2,
+      "effect": "boost_origin",
+      "value": 20,
+      "description": "选1个产地，该产地本局+20分/张",
+      "flavor": "点雪茄用的。",
+      "price": 22
+    },
+    {
+      "id": "match_vintage",
+      "name": "复古火柴盒",
+      "nameEn": "Vintage Matchbox",
+      "rarity": 3,
+      "effect": "add_vintage",
+      "description": "选1张牌变老版(年代通配)",
+      "flavor": "爷爷辈的点火方式。",
+      "price": 25
+    },
+    {
+      "id": "gold_zippo",
+      "name": "金色Zippo",
+      "nameEn": "Gold Zippo",
+      "rarity": 3,
+      "effect": "add_limited",
+      "description": "选1张牌变限量版(combo算2张)",
+      "flavor": "镀金不是真金，但够亮。",
+      "price": 30
+    },
+    {
+      "id": "diamond_lighter",
+      "name": "镶钻打火机",
+      "nameEn": "Diamond Lighter",
+      "rarity": 3,
+      "effect": "upgrade_rarity",
+      "value": 2,
+      "description": "选1张牌+2★稀有度",
+      "flavor": "施华洛世奇。",
+      "price": 35
+    },
+    {
+      "id": "foreign_sample",
+      "name": "外贸样品机",
+      "nameEn": "Export Sample Lighter",
+      "rarity": 3,
+      "effect": "add_foreign",
+      "description": "选1张牌变外烟(产地通配)",
+      "flavor": "出口转内销。",
+      "price": 28
+    },
+    {
+      "id": "plasma_lighter",
+      "name": "等离子打火机",
+      "nameEn": "Plasma Lighter",
+      "rarity": 3,
+      "effect": "double_next",
+      "description": "下次出牌得分×2",
+      "flavor": "紫色电弧，很酷。",
+      "price": 32
+    },
+    {
+      "id": "dunhill_lighter",
+      "name": "登喜路打火机",
+      "nameEn": "Dunhill Lighter",
+      "rarity": 4,
+      "effect": "copy_card",
+      "description": "复制1张牌(加入手牌)",
+      "flavor": "英伦绅士。",
+      "price": 45
+    },
+    {
+      "id": "dupont_lighter",
+      "name": "都彭打火机",
+      "nameEn": "S.T. Dupont Lighter",
+      "rarity": 4,
+      "effect": "upgrade_all_hand",
+      "value": 5,
+      "description": "手牌所有卡+5基础分",
+      "flavor": "那个经典的叮声。",
+      "price": 50
+    },
+    {
+      "id": "antique_lighter",
+      "name": "古董打火机",
+      "nameEn": "Antique Lighter",
+      "rarity": 4,
+      "effect": "all_80s",
+      "description": "本局所有牌视为80s",
+      "flavor": "民国时期的老物件。",
+      "price": 48
+    },
+    {
+      "id": "military_lighter",
+      "name": "军用打火机",
+      "nameEn": "Military Lighter",
+      "rarity": 4,
+      "effect": "remove_debuff",
+      "description": "移除所有负面效果",
+      "flavor": "战场上活下来的。",
+      "price": 42
+    },
+    {
+      "id": "cartier_lighter",
+      "name": "Cartier打火机",
+      "nameEn": "Cartier Lighter",
+      "rarity": 5,
+      "effect": "make_legendary",
+      "description": "选1张牌变★★★★★",
+      "flavor": "奢侈品中的奢侈品。",
+      "price": 80
+    },
+    {
+      "id": "time_lighter",
+      "name": "时光打火机",
+      "nameEn": "Time Lighter",
+      "rarity": 5,
+      "effect": "undo_round",
+      "description": "撤销上一回合",
+      "flavor": "时间倒流。",
+      "price": 100
+    },
+    {
+      "id": "infinity_lighter",
+      "name": "无限火机",
+      "nameEn": "Infinity Lighter",
+      "rarity": 5,
+      "effect": "copy_ashtray",
+      "description": "复制1个烟灰缸效果",
+      "flavor": "永不熄灭。",
+      "price": 120
+    },
+    {
+      "id": "dragon_lighter",
+      "name": "龙纹打火机",
+      "nameEn": "Dragon Lighter",
+      "rarity": 5,
+      "effect": "triple_combo",
+      "description": "下次combo倍率×3",
+      "flavor": "龙年限定。",
+      "price": 150
+    },
+    {
+      "id": "nuclear_lighter",
+      "name": "核动力火机",
+      "nameEn": "Nuclear Lighter",
+      "rarity": 5,
+      "effect": "all_legendary",
+      "description": "本回合所有牌视为★★★★★",
+      "flavor": "永不用充电。",
+      "price": 200
+    }
+  ]
+}

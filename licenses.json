@@ -1,0 +1,231 @@
+{
+  "licenses": [
+    {
+      "id": "retail_license",
+      "name": "零售许可证",
+      "nameEn": "Retail License",
+      "category": "operations",
+      "effect": "shop_extra_pack",
+      "value": 1,
+      "description": "商店+1个烟盒选择",
+      "price": 50
+    },
+    {
+      "id": "wholesale_license",
+      "name": "批发许可证",
+      "nameEn": "Wholesale License",
+      "category": "operations",
+      "effect": "discount_packs",
+      "value": 0.2,
+      "description": "商店烟盒-20%价格",
+      "price": 80
+    },
+    {
+      "id": "import_license",
+      "name": "进口许可证",
+      "nameEn": "Import License",
+      "category": "operations",
+      "effect": "unlock_international",
+      "description": "解锁国际品牌(万宝路/骆驼等)",
+      "price": 100
+    },
+    {
+      "id": "specialty_license",
+      "name": "专卖许可证",
+      "nameEn": "Specialty License",
+      "category": "operations",
+      "effect": "guaranteed_legendary",
+      "description": "商店必出1张限定(★★★★★)",
+      "price": 150
+    },
+    {
+      "id": "auction_license",
+      "name": "拍卖资质",
+      "nameEn": "Auction License",
+      "category": "operations",
+      "effect": "bid_option",
+      "description": "商店可竞价压低价格",
+      "price": 70
+    },
+    {
+      "id": "ashtray_rack",
+      "name": "烟灰缸架",
+      "nameEn": "Ashtray Rack",
+      "category": "storage",
+      "effect": "extra_ashtray_slot",
+      "value": 1,
+      "description": "+1 烟灰缸槽位",
+      "price": 60
+    },
+    {
+      "id": "consumable_cabinet",
+      "name": "消耗品柜",
+      "nameEn": "Consumable Cabinet",
+      "category": "storage",
+      "effect": "extra_consumable_slot",
+      "value": 1,
+      "description": "+1 消耗品槽位",
+      "price": 40
+    },
+    {
+      "id": "climate_warehouse",
+      "name": "恒温仓库",
+      "nameEn": "Climate Controlled Warehouse",
+      "category": "storage",
+      "effect": "extra_draw",
+      "value": 2,
+      "description": "起手多抽2张",
+      "price": 70
+    },
+    {
+      "id": "safe_box",
+      "name": "保险柜",
+      "nameEn": "Safe Box",
+      "category": "storage",
+      "effect": "protect_ashtrays",
+      "description": "烟灰缸不会被Boss偷走",
+      "price": 90
+    },
+    {
+      "id": "extra_discard",
+      "name": "弃牌桶",
+      "nameEn": "Discard Bin",
+      "category": "storage",
+      "effect": "extra_discard",
+      "value": 1,
+      "description": "每回合+1弃牌次数",
+      "price": 50
+    },
+    {
+      "id": "authentication",
+      "name": "鉴定资质",
+      "nameEn": "Authentication Certificate",
+      "category": "technical",
+      "effect": "show_hidden",
+      "description": "显示牌的隐藏属性和概率",
+      "price": 30
+    },
+    {
+      "id": "anti_counterfeit",
+      "name": "防伪认证",
+      "nameEn": "Anti-Counterfeit Cert",
+      "category": "technical",
+      "effect": "immune_fake",
+      "description": "免疫假烟Boss效果",
+      "price": 50
+    },
+    {
+      "id": "quality_cert",
+      "name": "质检证书",
+      "nameEn": "Quality Certificate",
+      "category": "technical",
+      "effect": "auto_upgrade",
+      "description": "每关开始升级1张随机牌",
+      "price": 120
+    },
+    {
+      "id": "grading_cert",
+      "name": "评级证书",
+      "nameEn": "Grading Certificate",
+      "category": "technical",
+      "effect": "show_score",
+      "description": "显示每张牌预计得分",
+      "price": 35
+    },
+    {
+      "id": "preservation",
+      "name": "保存技术",
+      "nameEn": "Preservation Tech",
+      "category": "technical",
+      "effect": "no_decay",
+      "description": "牌不会因Boss效果降级",
+      "price": 80
+    },
+    {
+      "id": "ledger",
+      "name": "记账本",
+      "nameEn": "Ledger",
+      "category": "financial",
+      "effect": "show_total",
+      "description": "显示当前出牌预计总分",
+      "price": 25
+    },
+    {
+      "id": "cash_register",
+      "name": "收银机",
+      "nameEn": "Cash Register",
+      "category": "financial",
+      "effect": "passive_income",
+      "value": 3,
+      "description": "每回合+3烟票",
+      "price": 80
+    },
+    {
+      "id": "credit_line",
+      "name": "信用额度",
+      "nameEn": "Credit Line",
+      "category": "financial",
+      "effect": "overdraft",
+      "value": 50,
+      "description": "可透支50烟票",
+      "price": 100
+    },
+    {
+      "id": "interest_free",
+      "name": "免息贷款",
+      "nameEn": "Interest Free Loan",
+      "category": "financial",
+      "effect": "no_penalty",
+      "description": "透支不扣利息",
+      "price": 60
+    },
+    {
+      "id": "tax_rebate",
+      "name": "税收返还",
+      "nameEn": "Tax Rebate",
+      "category": "financial",
+      "effect": "stage_bonus",
+      "value": 20,
+      "description": "每关通关+20烟票",
+      "price": 90
+    },
+    {
+      "id": "vip_card",
+      "name": "VIP会员卡",
+      "nameEn": "VIP Card",
+      "category": "special",
+      "effect": "reroll_shop",
+      "value": 2,
+      "description": "商店可免费刷新2次",
+      "price": 55
+    },
+    {
+      "id": "black_card",
+      "name": "黑卡",
+      "nameEn": "Black Card",
+      "category": "special",
+      "effect": "legendary_discount",
+      "value": 0.5,
+      "description": "限定烟半价",
+      "price": 150
+    },
+    {
+      "id": "collectors_badge",
+      "name": "收藏家徽章",
+      "nameEn": "Collector's Badge",
+      "category": "special",
+      "effect": "collection_bonus",
+      "description": "每种已收藏品牌+1分",
+      "price": 100
+    },
+    {
+      "id": "lucky_charm",
+      "name": "幸运符",
+      "nameEn": "Lucky Charm",
+      "category": "special",
+      "effect": "better_rng",
+      "description": "随机事件更有利",
+      "price": 75
+    }
+  ]
+}

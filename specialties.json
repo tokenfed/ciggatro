@@ -1,0 +1,124 @@
+{
+  "specialties": [
+    {
+      "id": "yunnan_puer",
+      "name": "普洱茶饼",
+      "nameEn": "Pu'er Tea Cake",
+      "province": "云南",
+      "effect": "level_up",
+      "description": "云南产地等级+1 (combo ×1.2/级)",
+      "flavor": "越陈越香，和好烟一样。",
+      "price": 30
+    },
+    {
+      "id": "shanghai_xiaolongbao",
+      "name": "南翔小笼",
+      "nameEn": "Xiaolongbao",
+      "province": "上海",
+      "effect": "level_up",
+      "description": "上海产地等级+1",
+      "flavor": "皮薄馅大，一口一个。",
+      "price": 30
+    },
+    {
+      "id": "hunan_stinkytoufu",
+      "name": "臭豆腐",
+      "nameEn": "Stinky Tofu",
+      "province": "湖南",
+      "effect": "level_up",
+      "description": "湖南产地等级+1",
+      "flavor": "闻着臭，吃着香。",
+      "price": 30
+    },
+    {
+      "id": "hubei_reganmian",
+      "name": "热干面",
+      "nameEn": "Hot Dry Noodles",
+      "province": "湖北",
+      "effect": "level_up",
+      "description": "湖北产地等级+1",
+      "flavor": "武汉人的过早。",
+      "price": 30
+    },
+    {
+      "id": "jiangsu_crab",
+      "name": "阳澄湖蟹",
+      "nameEn": "Yangcheng Lake Crab",
+      "province": "江苏",
+      "effect": "level_up",
+      "description": "江苏产地等级+1",
+      "flavor": "秋风起，蟹脚痒。",
+      "price": 30
+    },
+    {
+      "id": "zhejiang_longjing",
+      "name": "龙井茶",
+      "nameEn": "Longjing Tea",
+      "province": "浙江",
+      "effect": "level_up",
+      "description": "浙江产地等级+1",
+      "flavor": "明前龙井贵如金。",
+      "price": 30
+    },
+    {
+      "id": "guangdong_dimsum",
+      "name": "广式早茶",
+      "nameEn": "Cantonese Dim Sum",
+      "province": "广东",
+      "effect": "level_up",
+      "description": "广东产地等级+1",
+      "flavor": "一盅两件。",
+      "price": 30
+    },
+    {
+      "id": "fujian_tieguanyin",
+      "name": "铁观音",
+      "nameEn": "Tieguanyin Tea",
+      "province": "福建",
+      "effect": "level_up",
+      "description": "福建产地等级+1",
+      "flavor": "七泡有余香。",
+      "price": 30
+    },
+    {
+      "id": "sichuan_hotpot",
+      "name": "火锅底料",
+      "nameEn": "Hotpot Base",
+      "province": "四川",
+      "effect": "level_up",
+      "description": "四川产地等级+1",
+      "flavor": "麻辣鲜香。",
+      "price": 30
+    },
+    {
+      "id": "guizhou_maotai",
+      "name": "茅台酒",
+      "nameEn": "Maotai Liquor",
+      "province": "贵州",
+      "effect": "level_up",
+      "description": "贵州产地等级+1",
+      "flavor": "国酒茅台。",
+      "price": 30
+    },
+    {
+      "id": "henan_hulatang",
+      "name": "胡辣汤",
+      "nameEn": "Hu La Tang Soup",
+      "province": "河南",
+      "effect": "level_up",
+      "description": "河南产地等级+1",
+      "flavor": "逍遥镇的老味道。",
+      "price": 30
+    },
+    {
+      "id": "shandong_pancake",
+      "name": "煎饼卷葱",
+      "nameEn": "Scallion Pancake",
+      "province": "山东",
+      "effect": "level_up",
+      "description": "山东产地等级+1",
+      "flavor": "大葱蘸酱，一口一个。",
+      "price": 30
+    }
+  ]
+}
