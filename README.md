@@ -1,5 +1,7 @@
 # 🚬 CIGGATRO
 
+**[中文](README-CN.md) | [日本語](README-JA.md)**
+
 A Balatro-style roguelike deckbuilder themed around Chinese cigarettes. Play entirely through text with any AI assistant.
 
 Based on [ciggies.app](https://ciggies.app) — Chinese Cigarette Museum by [@0x_ultra](https://x.com/0x_ultra).
@@ -49,6 +51,12 @@ All cigarette pack images are loaded from ciggies.app CDN:
 ```
 https://www.ciggies.app/api/img/products/{sku}-0-128.webp
 ```
+
+## 📖 Design Documents
+
+- [GDD 中文版](GDD-CN.md)
+- [GDD English](GDD-EN.md)
+- [GDD 日本語](GDD-JA.md)
 
 ## 📜 License
 
