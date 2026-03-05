@@ -283,28 +283,35 @@ Brand combos give even higher bonuses!
 
 ### Image Mode (imageMode: true)
 
-**显示手牌时，把图片 URL 直接嵌入消息：**
+**⚠️ 重要：分批发送，每批最多 4 张卡！**
 
-```
-🃏 你的手牌：
+Discord/Telegram 只会预览前 4-5 个链接，所以必须分批发送消息。
 
-[1] 🚬 中华（硬）★★★★★
-    上海 · 00s · 烤烟 · 基础分: 50
-    https://www.ciggies.app/api/img/products/20050829150956.jpg
+**规则：**
+1. 每条消息最多 4 张卡
+2. 图片 URL 必须**单独一行**，**不能**放在代码块里
+3. 用 `message` 工具分批发送
 
-[2] 🚬 玉溪（软）★★★
-    云南 · 10s · 烤烟 · 基础分: 30
-    https://www.ciggies.app/api/img/products/20050829151818.jpg
+**正确格式（每条消息）：**
 
-[3] 🚬 芙蓉王（硬）★★★
-    湖南 · 00s · 烤烟 · 基础分: 32
-    https://www.ciggies.app/api/img/products/20050811152412.jpg
-```
+🃏 你的手牌 (1-4):
 
-**Discord/Telegram 会自动预览图片链接。**
+**[1] 🚬 中华（硬）★★★★★**
+上海 · 00s · 烤烟 · 基础分: 50
+*"国宴标配。"*
+https://www.ciggies.app/api/img/products/202507301114199930.jpg
 
-**或者用 embed 格式（更美观）：**
-每张卡单独一个 embed，包含图片、品牌、属性。
+**[2] 🚬 玉溪（软）★★★**
+云南 · 10s · 烤烟 · 基础分: 30
+*"云南烤烟的代表。"*
+https://www.ciggies.app/api/img/products/20060117165155.png
+
+（然后发第二条消息显示 5-8 张）
+
+**❌ 错误示范：**
+- 把 URL 放在 ``` 代码块里（不会预览）
+- 把 URL 放在 `<>` 角括号里（会抑制预览）
+- 一条消息塞 8 张卡（后面的不会预览）
 
 ### Text Mode (imageMode: false)
 - 纯文字，不显示图片链接
