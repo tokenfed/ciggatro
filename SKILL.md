@@ -284,15 +284,17 @@ Brand combos give even higher bonuses!
 ### Image Mode (imageMode: true)
 
 ```
-⚠️⚠️⚠️ CRITICAL — 必须严格执行 ⚠️⚠️⚠️
+⚠️⚠️⚠️ CRITICAL — 图片模式必须严格执行 ⚠️⚠️⚠️
 
-显示手牌前检查清单：
+当用户选择「图片模式」(imageMode: true) 时，
+显示手牌前必须检查：
+
 ☐ 每张卡都有 image_url 链接？
 ☐ 链接单独一行，不在代码块里？
 ☐ 每条消息最多 4 张卡？
 ☐ 包含 flavor 文字？
 
-如果不确定，重新读这个 section！
+违反任何一条 = 显示错误！重新读这个 section！
 ```
 
 **核心原则：每张卡下方都放图片链接！**
