@@ -9,9 +9,7 @@
       "rarity": 5,
       "baseScore": 50,
       "price": 65,
-      "flavor": "国宴标配。",
-      "ciggies_sku": "3658",
-      "image_url": "https://www.ciggies.app/api/img/products/202512090855508320.png"
+      "flavor": "国宴标配。"
     },
     {
       "id": "chunghwa_soft",
@@ -22,9 +20,7 @@
       "rarity": 5,
       "baseScore": 55,
       "price": 75,
-      "flavor": "软包更尊贵。",
-      "ciggies_sku": "3630",
-      "image_url": "https://www.ciggies.app/api/img/products/202509012150142130.jpg"
+      "flavor": "软包更尊贵。"
     },
     {
       "id": "chunghwa_slim",
@@ -35,9 +31,7 @@
       "rarity": 5,
       "baseScore": 52,
       "price": 60,
-      "flavor": "细支新时代。",
-      "ciggies_sku": "3588",
-      "image_url": "https://www.ciggies.app/api/img/products/202501012317541960.png"
+      "flavor": "细支新时代。"
     },
     {
       "id": "chunghwa_double",
@@ -48,9 +42,7 @@
       "rarity": 5,
       "baseScore": 58,
       "price": 60,
-      "flavor": "金双中。",
-      "ciggies_sku": "3300",
-      "image_url": "https://www.ciggies.app/api/img/products/2020050423271514.png"
+      "flavor": "金双中。"
     },
     {
       "id": "chunghwa_1951",
@@ -61,9 +53,7 @@
       "rarity": 5,
       "baseScore": 60,
       "price": 100,
-      "flavor": "复刻经典。",
-      "ciggies_sku": "3299",
-      "image_url": "https://www.ciggies.app/api/img/products/2020050423192345.png"
+      "flavor": "复刻经典。"
     },
     {
       "id": "panda_classic",
@@ -74,9 +64,7 @@
       "rarity": 5,
       "baseScore": 80,
       "price": 150,
-      "flavor": "国宝级，有钱难买。",
-      "ciggies_sku": "3616",
-      "image_url": "https://www.ciggies.app/api/img/products/202507272028202270.jpg"
+      "flavor": "国宝级，有钱难买。"
     },
     {
       "id": "panda_green",
@@ -87,9 +75,7 @@
       "rarity": 5,
       "baseScore": 75,
       "price": 120,
-      "flavor": "绿盒熊猫。",
-      "ciggies_sku": "3578",
-      "image_url": "https://www.ciggies.app/api/img/products/202411212135404130.png"
+      "flavor": "绿盒熊猫。"
     },
     {
       "id": "panda_times",
@@ -100,9 +86,7 @@
       "rarity": 5,
       "baseScore": 70,
       "price": 100,
-      "flavor": "时代版。",
-      "ciggies_sku": "3562",
-      "image_url": "https://www.ciggies.app/api/img/products/202409232120126330.png"
+      "flavor": "时代版。"
     },
     {
       "id": "grandchongqiu",
@@ -113,9 +97,7 @@
       "rarity": 5,
       "baseScore": 70,
       "price": 100,
-      "flavor": "云南巅峰之作。",
-      "ciggies_sku": "3666",
-      "image_url": "https://www.ciggies.app/api/img/products/202601121837219010.jpg"
+      "flavor": "云南巅峰之作。"
     },
     {
       "id": "grandchongqiu_99",
@@ -126,9 +108,7 @@
       "rarity": 5,
       "baseScore": 68,
       "price": 100,
-      "flavor": "九九紫金。",
-      "ciggies_sku": "3631",
-      "image_url": "https://www.ciggies.app/api/img/products/202509012232545900.jpg"
+      "flavor": "九九紫金。"
     },
     {
       "id": "harmony",
@@ -139,9 +119,7 @@
       "rarity": 5,
       "baseScore": 65,
       "price": 100,
-      "flavor": "天下和为贵。",
-      "ciggies_sku": "3512",
-      "image_url": "https://www.ciggies.app/api/img/products/202508212345404250.jpg"
+      "flavor": "天下和为贵。"
     },
     {
       "id": "harmony_respect",
@@ -152,9 +130,7 @@
       "rarity": 5,
       "baseScore": 62,
       "price": 80,
-      "flavor": "尊享版。",
-      "ciggies_sku": "3455",
-      "image_url": "https://www.ciggies.app/api/img/products/202508221234162800.jpg"
+      "flavor": "尊享版。"
     },
     {
       "id": "yellowcrane_1916",
@@ -165,9 +141,7 @@
       "rarity": 5,
       "baseScore": 60,
       "price": 100,
-      "flavor": "百年经典复刻。",
-      "ciggies_sku": "3660",
-      "image_url": "https://www.ciggies.app/api/img/products/202512281852242240.jpg"
+      "flavor": "百年经典复刻。"
     },
     {
       "id": "yellowcrane_soft1916",
@@ -178,9 +152,7 @@
       "rarity": 5,
       "baseScore": 65,
       "price": 130,
-      "flavor": "软1916。",
-      "ciggies_sku": "3654",
-      "image_url": "https://www.ciggies.app/api/img/products/202511200947210030.jpg"
+      "flavor": "软1916。"
     },
     {
       "id": "nanjing_95",
@@ -191,9 +163,7 @@
       "rarity": 4,
       "baseScore": 45,
       "price": 90,
-      "flavor": "九五之尊。",
-      "ciggies_sku": "3659",
-      "image_url": "https://www.ciggies.app/api/img/products/202512230815098190.png"
+      "flavor": "九五之尊。"
     },
     {
       "id": "nanjing_95_slim",
@@ -204,9 +174,7 @@
       "rarity": 4,
       "baseScore": 48,
       "price": 100,
-      "flavor": "细支九五。",
-      "ciggies_sku": "3639",
-      "image_url": "https://www.ciggies.app/api/img/products/202509172215441180.jpg"
+      "flavor": "细支九五。"
     },
     {
       "id": "nanjing_jinling",
@@ -217,9 +185,7 @@
       "rarity": 4,
       "baseScore": 40,
       "price": 60,
-      "flavor": "金陵十二钗。",
-      "ciggies_sku": "3574",
-      "image_url": "https://www.ciggies.app/api/img/products/202411051731098050.jpg"
+      "flavor": "金陵十二钗。"
     },
     {
       "id": "nanjing_purple",
@@ -230,9 +196,7 @@
       "rarity": 3,
       "baseScore": 32,
       "price": 45,
-      "flavor": "紫树。",
-      "ciggies_sku": "3573",
-      "image_url": "https://www.ciggies.app/api/img/products/202411051659349840.jpg"
+      "flavor": "紫树。"
     },
     {
       "id": "nanjing_rain",
@@ -243,9 +207,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 36,
-      "flavor": "雨花石。",
-      "ciggies_sku": "3522",
-      "image_url": "https://www.ciggies.app/api/img/products/202309272158514070.jpg"
+      "flavor": "雨花石。"
     },
     {
       "id": "goldenleaf_tianye",
@@ -256,9 +218,7 @@
       "rarity": 4,
       "baseScore": 45,
       "price": 80,
-      "flavor": "只取最上三片。",
-      "ciggies_sku": "3682",
-      "image_url": "https://www.ciggies.app/api/img/products/20150127231317.jpg"
+      "flavor": "只取最上三片。"
     },
     {
       "id": "goldenleaf_hard",
@@ -269,9 +229,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 22,
-      "flavor": "中原大地的馈赠。",
-      "ciggies_sku": "3623",
-      "image_url": "https://www.ciggies.app/api/img/products/202507291133558440.jpg"
+      "flavor": "中原大地的馈赠。"
     },
     {
       "id": "goldenleaf_century",
@@ -282,9 +240,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 35,
-      "flavor": "百年浓香。",
-      "ciggies_sku": "3592",
-      "image_url": "https://www.ciggies.app/api/img/products/202501230024188500.jpg"
+      "flavor": "百年浓香。"
     },
     {
       "id": "goldenleaf_manyun",
@@ -295,9 +251,7 @@
       "rarity": 3,
       "baseScore": 32,
       "price": 45,
-      "flavor": "满韵。",
-      "ciggies_sku": "3556",
-      "image_url": "https://www.ciggies.app/api/img/products/202407072337546920.png"
+      "flavor": "满韵。"
     },
     {
       "id": "lotus_slim",
@@ -308,9 +262,7 @@
       "rarity": 4,
       "baseScore": 42,
       "price": 65,
-      "flavor": "钻石荷花。",
-      "ciggies_sku": "3568",
-      "image_url": "https://www.ciggies.app/api/img/products/202411031641083920.png"
+      "flavor": "钻石荷花。"
     },
     {
       "id": "lotus_slim_red",
@@ -321,9 +273,7 @@
       "rarity": 4,
       "baseScore": 45,
       "price": 80,
-      "flavor": "红荷细支。",
-      "ciggies_sku": "3343",
-      "image_url": "https://www.ciggies.app/api/img/products/2020101921484021.png"
+      "flavor": "红荷细支。"
     },
     {
       "id": "yuxi_soft",
@@ -334,9 +284,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 40,
-      "flavor": "云南烤烟的代表。",
-      "ciggies_sku": "3683",
-      "image_url": "https://www.ciggies.app/api/img/products/202507061855271520.jpg"
+      "flavor": "云南烤烟的代表。"
     },
     {
       "id": "yuxi_hard",
@@ -347,9 +295,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 35,
-      "flavor": "硬玉溪。",
-      "ciggies_sku": "3620",
-      "image_url": "https://www.ciggies.app/api/img/products/202507071053555270.jpg"
+      "flavor": "硬玉溪。"
     },
     {
       "id": "yuxi_chuanqi",
@@ -360,9 +306,7 @@
       "rarity": 4,
       "baseScore": 38,
       "price": 55,
-      "flavor": "传奇。",
-      "ciggies_sku": "3593",
-      "image_url": "https://www.ciggies.app/api/img/products/202501230122516950.jpg"
+      "flavor": "传奇。"
     },
     {
       "id": "yuxi_chuangyi",
@@ -373,9 +317,7 @@
       "rarity": 3,
       "baseScore": 32,
       "price": 40,
-      "flavor": "创意。",
-      "ciggies_sku": "3561",
-      "image_url": "https://www.ciggies.app/api/img/products/202409112230012640.jpg"
+      "flavor": "创意。"
     },
     {
       "id": "yuxi_tianyuan",
@@ -386,9 +328,7 @@
       "rarity": 3,
       "baseScore": 34,
       "price": 40,
-      "flavor": "田园。",
-      "ciggies_sku": "3523",
-      "image_url": "https://www.ciggies.app/api/img/products/202310232255466790.png"
+      "flavor": "田园。"
     },
     {
       "id": "furongwang_hard",
@@ -399,9 +339,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 38,
-      "flavor": "芙蓉国里尽朝晖。",
-      "ciggies_sku": "3651",
-      "image_url": "https://www.ciggies.app/api/img/products/202510292115274720.jpg"
+      "flavor": "芙蓉国里尽朝晖。"
     },
     {
       "id": "furongwang_soft",
@@ -412,9 +350,7 @@
       "rarity": 3,
       "baseScore": 32,
       "price": 45,
-      "flavor": "软芙蓉王。",
-      "ciggies_sku": "3650",
-      "image_url": "https://www.ciggies.app/api/img/products/202510292108379800.jpg"
+      "flavor": "软芙蓉王。"
     },
     {
       "id": "furongwang_diamond",
@@ -425,9 +361,7 @@
       "rarity": 4,
       "baseScore": 40,
       "price": 60,
-      "flavor": "钻石。",
-      "ciggies_sku": "3642",
-      "image_url": "https://www.ciggies.app/api/img/products/202510292103497820.jpg"
+      "flavor": "钻石。"
     },
     {
       "id": "furongwang_slim",
@@ -438,9 +372,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 26,
-      "flavor": "品悦细支。",
-      "ciggies_sku": "3626",
-      "image_url": "https://www.ciggies.app/api/img/products/202508112301041300.jpg"
+      "flavor": "品悦细支。"
     },
     {
       "id": "furongwang_lingxiu",
@@ -451,9 +383,7 @@
       "rarity": 4,
       "baseScore": 42,
       "price": 80,
-      "flavor": "领袖。",
-      "ciggies_sku": "3570",
-      "image_url": "https://www.ciggies.app/api/img/products/202411031740051810.jpg"
+      "flavor": "领袖。"
     },
     {
       "id": "yellowcrane_soft",
@@ -464,9 +394,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 38,
-      "flavor": "故人西辞黄鹤楼。",
-      "ciggies_sku": "3609",
-      "image_url": "https://www.ciggies.app/api/img/products/202505262153258290.jpg"
+      "flavor": "故人西辞黄鹤楼。"
     },
     {
       "id": "yellowcrane_yazhi",
@@ -477,9 +405,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 32,
-      "flavor": "雅致。",
-      "ciggies_sku": "3608",
-      "image_url": "https://www.ciggies.app/api/img/products/202505261120066390.jpg"
+      "flavor": "雅致。"
     },
     {
       "id": "yellowcrane_mantianyou",
@@ -490,9 +416,7 @@
       "rarity": 4,
       "baseScore": 38,
       "price": 50,
-      "flavor": "漫天游。",
-      "ciggies_sku": "3532",
-      "image_url": "https://www.ciggies.app/api/img/products/202311180018056340.jpg"
+      "flavor": "漫天游。"
     },
     {
       "id": "yellowcrane_slim",
@@ -503,9 +427,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 35,
-      "flavor": "峡谷细支。",
-      "ciggies_sku": "3424",
-      "image_url": "https://www.ciggies.app/api/img/products/2021110911004821.png"
+      "flavor": "峡谷细支。"
     },
     {
       "id": "yellowcrane_qingyun",
@@ -516,9 +438,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 25,
-      "flavor": "青云。",
-      "ciggies_sku": "3406",
-      "image_url": "https://www.ciggies.app/api/img/products/2021060410395801.jpg"
+      "flavor": "青云。"
     },
     {
       "id": "suyan_soft",
@@ -529,9 +449,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 35,
-      "flavor": "江南的精致。",
-      "ciggies_sku": "3463",
-      "image_url": "https://www.ciggies.app/api/img/products/202209172318087520.png"
+      "flavor": "江南的精致。"
     },
     {
       "id": "suyan_jinsha",
@@ -542,9 +460,7 @@
       "rarity": 4,
       "baseScore": 40,
       "price": 65,
-      "flavor": "金砂。",
-      "ciggies_sku": "3377",
-      "image_url": "https://www.ciggies.app/api/img/products/2021020518331961.png"
+      "flavor": "金砂。"
     },
     {
       "id": "suyan_wuXing",
@@ -555,9 +471,7 @@
       "rarity": 3,
       "baseScore": 32,
       "price": 45,
-      "flavor": "五星。",
-      "ciggies_sku": "3374",
-      "image_url": "https://www.ciggies.app/api/img/products/202209172315430210.png"
+      "flavor": "五星。"
     },
     {
       "id": "liqun_soft",
@@ -568,9 +482,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "商帮之选。",
-      "ciggies_sku": "3637",
-      "image_url": "https://www.ciggies.app/api/img/products/202509090959213090.png"
+      "flavor": "商帮之选。"
     },
     {
       "id": "liqun_hard",
@@ -581,9 +493,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 18,
-      "flavor": "硬利群。",
-      "ciggies_sku": "3628",
-      "image_url": "https://www.ciggies.app/api/img/products/202508252242087480.jpg"
+      "flavor": "硬利群。"
     },
     {
       "id": "liqun_sunshine",
@@ -594,9 +504,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 28,
-      "flavor": "阳光。",
-      "ciggies_sku": "3622",
-      "image_url": "https://www.ciggies.app/api/img/products/202507192215479920.jpg"
+      "flavor": "阳光。"
     },
     {
       "id": "liqun_westlake",
@@ -607,9 +515,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 36,
-      "flavor": "西湖。",
-      "ciggies_sku": "3615",
-      "image_url": "https://www.ciggies.app/api/img/products/202507122139034120.jpg"
+      "flavor": "西湖。"
     },
     {
       "id": "liqun_slim",
@@ -620,9 +526,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 36,
-      "flavor": "阳光细支。",
-      "ciggies_sku": "3602",
-      "image_url": "https://www.ciggies.app/api/img/products/202505060001000400.jpg"
+      "flavor": "阳光细支。"
     },
     {
       "id": "yunyan_soft",
@@ -633,9 +537,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 20,
-      "flavor": "云南的另一张名片。",
-      "ciggies_sku": "3686",
-      "image_url": "https://www.ciggies.app/api/img/products/202603011413361100.jpg"
+      "flavor": "云南的另一张名片。"
     },
     {
       "id": "yunyan_impression",
@@ -646,9 +548,7 @@
       "rarity": 2,
       "baseScore": 22,
       "price": 25,
-      "flavor": "印象系列。",
-      "ciggies_sku": "3684",
-      "image_url": "https://www.ciggies.app/api/img/products/2018022723034664.png"
+      "flavor": "印象系列。"
     },
     {
       "id": "yunyan_purple",
@@ -659,9 +559,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 35,
-      "flavor": "紫云烟。",
-      "ciggies_sku": "3656",
-      "image_url": "https://www.ciggies.app/api/img/products/202511291442223340.png"
+      "flavor": "紫云烟。"
     },
     {
       "id": "yunyan_dazhongjiu",
@@ -672,9 +570,7 @@
       "rarity": 4,
       "baseScore": 40,
       "price": 70,
-      "flavor": "大重九系列。",
-      "ciggies_sku": "3655",
-      "image_url": "https://www.ciggies.app/api/img/products/202511291400513540.png"
+      "flavor": "大重九系列。"
     },
     {
       "id": "yunyan_slim",
@@ -685,9 +581,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 26,
-      "flavor": "云端细支。",
-      "ciggies_sku": "3653",
-      "image_url": "https://www.ciggies.app/api/img/products/202511112020496010.png"
+      "flavor": "云端细支。"
     },
     {
       "id": "hongta_soft",
@@ -698,9 +592,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 15,
-      "flavor": "山高人为峰。",
-      "ciggies_sku": "3552",
-      "image_url": "https://www.ciggies.app/api/img/products/202404112327255220.png"
+      "flavor": "山高人为峰。"
     },
     {
       "id": "hongta_hard",
@@ -711,9 +603,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 18,
-      "flavor": "经典传承。",
-      "ciggies_sku": "3524",
-      "image_url": "https://www.ciggies.app/api/img/products/202310232326391020.png"
+      "flavor": "经典传承。"
     },
     {
       "id": "hongta_jingpin",
@@ -724,9 +614,7 @@
       "rarity": 2,
       "baseScore": 22,
       "price": 22,
-      "flavor": "经典1956。",
-      "ciggies_sku": "3421",
-      "image_url": "https://www.ciggies.app/api/img/products/2021101422151812.png"
+      "flavor": "经典1956。"
     },
     {
       "id": "jiaozi_hard",
@@ -737,9 +625,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 20,
-      "flavor": "天府之国。",
-      "ciggies_sku": "3669",
-      "image_url": "https://www.ciggies.app/api/img/products/202602012048239620.png"
+      "flavor": "天府之国。"
     },
     {
       "id": "jiaozi_kuanzhai",
@@ -750,9 +636,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 40,
-      "flavor": "宽窄。",
-      "ciggies_sku": "3633",
-      "image_url": "https://www.ciggies.app/api/img/products/202509012326189300.jpg"
+      "flavor": "宽窄。"
     },
     {
       "id": "jiaozi_kuanzhai_slim",
@@ -763,9 +647,7 @@
       "rarity": 3,
       "baseScore": 32,
       "price": 40,
-      "flavor": "宽窄细支。",
-      "ciggies_sku": "3600",
-      "image_url": "https://www.ciggies.app/api/img/products/202504302040056160.jpg"
+      "flavor": "宽窄细支。"
     },
     {
       "id": "jiaozi_panda",
@@ -776,9 +658,7 @@
       "rarity": 4,
       "baseScore": 42,
       "price": 100,
-      "flavor": "宽窄国宝之恋。",
-      "ciggies_sku": "3596",
-      "image_url": "https://www.ciggies.app/api/img/products/202503052302306070.jpg"
+      "flavor": "宽窄国宝之恋。"
     },
     {
       "id": "septwolves_soft",
@@ -789,9 +669,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 18,
-      "flavor": "闽商的选择。",
-      "ciggies_sku": "3678",
-      "image_url": "https://www.ciggies.app/api/img/products/2021032801241605.png"
+      "flavor": "闽商的选择。"
     },
     {
       "id": "septwolves_hard",
@@ -802,9 +680,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 20,
-      "flavor": "狼性文化。",
-      "ciggies_sku": "3652",
-      "image_url": "https://www.ciggies.app/api/img/products/202511092220067680.jpg"
+      "flavor": "狼性文化。"
     },
     {
       "id": "septwolves_gold",
@@ -815,9 +691,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 25,
-      "flavor": "金典。",
-      "ciggies_sku": "3640",
-      "image_url": "https://www.ciggies.app/api/img/products/202509172235164820.jpg"
+      "flavor": "金典。"
     },
     {
       "id": "septwolves_gutian",
@@ -828,9 +702,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 38,
-      "flavor": "古田。",
-      "ciggies_sku": "3632",
-      "image_url": "https://www.ciggies.app/api/img/products/202509012253076880.jpg"
+      "flavor": "古田。"
     },
     {
       "id": "septwolves_star",
@@ -841,9 +713,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 40,
-      "flavor": "星辰大海。",
-      "ciggies_sku": "3629",
-      "image_url": "https://www.ciggies.app/api/img/products/202509012056484220.jpg"
+      "flavor": "星辰大海。"
     },
     {
       "id": "shuangxi_soft",
@@ -854,9 +724,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "广东人的日常。",
-      "ciggies_sku": "3670",
-      "image_url": "https://www.ciggies.app/api/img/products/202602042014587170.png"
+      "flavor": "广东人的日常。"
     },
     {
       "id": "shuangxi_classic",
@@ -867,9 +735,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 20,
-      "flavor": "经典双喜。",
-      "ciggies_sku": "3645",
-      "image_url": "https://www.ciggies.app/api/img/products/202510132047511970.jpg"
+      "flavor": "经典双喜。"
     },
     {
       "id": "shuangxi_spring",
@@ -880,9 +746,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 30,
-      "flavor": "春天系列。",
-      "ciggies_sku": "3638",
-      "image_url": "https://www.ciggies.app/api/img/products/202509092032355730.png"
+      "flavor": "春天系列。"
     },
     {
       "id": "shuangxi_haorizi",
@@ -893,9 +757,7 @@
       "rarity": 2,
       "baseScore": 22,
       "price": 21,
-      "flavor": "好日子。",
-      "ciggies_sku": "3584",
-      "image_url": "https://www.ciggies.app/api/img/products/202412292307573590.jpg"
+      "flavor": "好日子。"
     },
     {
       "id": "baisha_soft",
@@ -906,9 +768,7 @@
       "rarity": 1,
       "baseScore": 12,
       "price": 10,
-      "flavor": "湖南人的日常。",
-      "ciggies_sku": "3649",
-      "image_url": "https://www.ciggies.app/api/img/products/202510292056524440.jpg"
+      "flavor": "湖南人的日常。"
     },
     {
       "id": "baisha_hard",
@@ -919,9 +779,7 @@
       "rarity": 1,
       "baseScore": 13,
       "price": 12,
-      "flavor": "和天下白沙。",
-      "ciggies_sku": "3607",
-      "image_url": "https://www.ciggies.app/api/img/products/202505222206313320.png"
+      "flavor": "和天下白沙。"
     },
     {
       "id": "baisha_jingpin",
@@ -932,9 +790,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "精品白沙。",
-      "ciggies_sku": "3606",
-      "image_url": "https://www.ciggies.app/api/img/products/202505222159499830.png"
+      "flavor": "精品白沙。"
     },
     {
       "id": "baisha_happy",
@@ -945,9 +801,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 20,
-      "flavor": "开心就好。",
-      "ciggies_sku": "3598",
-      "image_url": "https://www.ciggies.app/api/img/products/202504182223531680.jpg"
+      "flavor": "开心就好。"
     },
     {
       "id": "doublehappiness_soft",
@@ -958,9 +812,7 @@
       "rarity": 1,
       "baseScore": 10,
       "price": 8,
-      "flavor": "喜事必备。",
-      "ciggies_sku": "2012",
-      "image_url": "https://www.ciggies.app/api/img/products/2021021015564674.png"
+      "flavor": "喜事必备。"
     },
     {
       "id": "doublehappiness_hard",
@@ -971,9 +823,7 @@
       "rarity": 1,
       "baseScore": 12,
       "price": 10,
-      "flavor": "经典红色。",
-      "ciggies_sku": "1862",
-      "image_url": "https://www.ciggies.app/api/img/products/20130604134327.jpg"
+      "flavor": "经典红色。"
     },
     {
       "id": "doublehappiness_8mg",
@@ -984,9 +834,7 @@
       "rarity": 1,
       "baseScore": 14,
       "price": 13,
-      "flavor": "8毫克。",
-      "ciggies_sku": "1822",
-      "image_url": "https://www.ciggies.app/api/img/products/20130114005501.jpg"
+      "flavor": "8毫克。"
     },
     {
       "id": "redplum_soft",
@@ -997,9 +845,7 @@
       "rarity": 1,
       "baseScore": 10,
       "price": 7,
-      "flavor": "工人阶级的老朋友。",
-      "ciggies_sku": "689",
-      "image_url": "https://www.ciggies.app/api/img/products/20070212144306.jpg"
+      "flavor": "工人阶级的老朋友。"
     },
     {
       "id": "redplum_hard",
@@ -1010,9 +856,7 @@
       "rarity": 1,
       "baseScore": 11,
       "price": 9,
-      "flavor": "便宜大碗。",
-      "ciggies_sku": "574",
-      "image_url": "https://www.ciggies.app/api/img/products/2020121803112472.png"
+      "flavor": "便宜大碗。"
     },
     {
       "id": "daqianmen_soft",
@@ -1023,9 +867,7 @@
       "rarity": 1,
       "baseScore": 10,
       "price": 8,
-      "flavor": "前门楼子九丈九。",
-      "ciggies_sku": "2511",
-      "image_url": "https://www.ciggies.app/api/img/products/20160920191858.png"
+      "flavor": "前门楼子九丈九。"
     },
     {
       "id": "daqianmen_hard",
@@ -1036,9 +878,7 @@
       "rarity": 1,
       "baseScore": 12,
       "price": 10,
-      "flavor": "老北京的记忆。",
-      "ciggies_sku": "1007",
-      "image_url": "https://www.ciggies.app/api/img/products/20090414002718.jpg"
+      "flavor": "老北京的记忆。"
     },
     {
       "id": "hatamen_soft",
@@ -1049,9 +889,7 @@
       "rarity": 1,
       "baseScore": 10,
       "price": 8,
-      "flavor": "山东老牌。",
-      "ciggies_sku": "3086",
-      "image_url": "https://www.ciggies.app/api/img/products/2021010422555724.png"
+      "flavor": "山东老牌。"
     },
     {
       "id": "hatamen_hard",
@@ -1062,9 +900,7 @@
       "rarity": 1,
       "baseScore": 13,
       "price": 12,
-      "flavor": "新包装。",
-      "ciggies_sku": "2857",
-      "image_url": "https://www.ciggies.app/api/img/products/2017090611014384.png"
+      "flavor": "新包装。"
     },
     {
       "id": "guiyan_soft",
@@ -1075,9 +911,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 35,
-      "flavor": "茅台故乡的烟。",
-      "ciggies_sku": "3572",
-      "image_url": "https://www.ciggies.app/api/img/products/202411051459282070.jpg"
+      "flavor": "茅台故乡的烟。"
     },
     {
       "id": "guiyan_guojiang",
@@ -1088,9 +922,7 @@
       "rarity": 4,
       "baseScore": 40,
       "price": 60,
-      "flavor": "国酒香。",
-      "ciggies_sku": "3518",
-      "image_url": "https://www.ciggies.app/api/img/products/202306140107118290.jpg"
+      "flavor": "国酒香。"
     },
     {
       "id": "guiyan_xingzhe",
@@ -1101,9 +933,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 40,
-      "flavor": "行者。",
-      "ciggies_sku": "3462",
-      "image_url": "https://www.ciggies.app/api/img/products/202209062234143170.png"
+      "flavor": "行者。"
     },
     {
       "id": "zhongnanhai_soft",
@@ -1114,9 +944,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "低焦油的选择。",
-      "ciggies_sku": "3591",
-      "image_url": "https://www.ciggies.app/api/img/products/202501142230330740.jpg"
+      "flavor": "低焦油的选择。"
     },
     {
       "id": "zhongnanhai_5mg",
@@ -1127,9 +955,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 18,
-      "flavor": "5毫克。",
-      "ciggies_sku": "3513",
-      "image_url": "https://www.ciggies.app/api/img/products/202305212302455900.png"
+      "flavor": "5毫克。"
     },
     {
       "id": "zhongnanhai_black",
@@ -1140,9 +966,7 @@
       "rarity": 2,
       "baseScore": 22,
       "price": 22,
-      "flavor": "黑耀。",
-      "ciggies_sku": "3471",
-      "image_url": "https://www.ciggies.app/api/img/products/202211162028401930.jpg"
+      "flavor": "黑耀。"
     },
     {
       "id": "taishan_soft",
@@ -1153,9 +977,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "五岳之首。",
-      "ciggies_sku": "3579",
-      "image_url": "https://www.ciggies.app/api/img/products/202411212201293900.png"
+      "flavor": "五岳之首。"
     },
     {
       "id": "taishan_wangyue",
@@ -1166,9 +988,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 28,
-      "flavor": "望岳。",
-      "ciggies_sku": "3549",
-      "image_url": "https://www.ciggies.app/api/img/products/202402061435005060.png"
+      "flavor": "望岳。"
     },
     {
       "id": "taishan_bainiao",
@@ -1179,9 +999,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 38,
-      "flavor": "佛光。",
-      "ciggies_sku": "3539",
-      "image_url": "https://www.ciggies.app/api/img/products/202401300141384250.png"
+      "flavor": "佛光。"
     },
     {
       "id": "huangshan_soft",
@@ -1192,9 +1010,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 15,
-      "flavor": "迎客松。",
-      "ciggies_sku": "3672",
-      "image_url": "https://www.ciggies.app/api/img/products/202602152046402590.jpg"
+      "flavor": "迎客松。"
     },
     {
       "id": "huangshan_hard",
@@ -1205,9 +1021,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 18,
-      "flavor": "硬黄山。",
-      "ciggies_sku": "3635",
-      "image_url": "https://www.ciggies.app/api/img/products/202509041952166550.jpg"
+      "flavor": "硬黄山。"
     },
     {
       "id": "huangshan_huishan",
@@ -1218,9 +1032,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 30,
-      "flavor": "徽商。",
-      "ciggies_sku": "3558",
-      "image_url": "https://www.ciggies.app/api/img/products/202407102230244460.jpg"
+      "flavor": "徽商。"
     },
     {
       "id": "huangshan_hongfang",
@@ -1231,9 +1043,7 @@
       "rarity": 4,
       "baseScore": 38,
       "price": 50,
-      "flavor": "红方印。",
-      "ciggies_sku": "3557",
-      "image_url": "https://www.ciggies.app/api/img/products/202407102226430670.jpg"
+      "flavor": "红方印。"
     },
     {
       "id": "tianzi_soft",
@@ -1244,9 +1054,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 26,
-      "flavor": "重庆名片。",
-      "ciggies_sku": "3648",
-      "image_url": "https://www.ciggies.app/api/img/products/202510231854061670.png"
+      "flavor": "重庆名片。"
     },
     {
       "id": "tianzi_jinye",
@@ -1257,9 +1065,7 @@
       "rarity": 4,
       "baseScore": 40,
       "price": 60,
-      "flavor": "金叶天子。",
-      "ciggies_sku": "3537",
-      "image_url": "https://www.ciggies.app/api/img/products/202401111947238870.png"
+      "flavor": "金叶天子。"
     },
     {
       "id": "tianzi_tianfu",
@@ -1270,9 +1076,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 26,
-      "flavor": "天福。",
-      "ciggies_sku": "3517",
-      "image_url": "https://www.ciggies.app/api/img/products/202306122155410520.jpg"
+      "flavor": "天福。"
     },
     {
       "id": "lanzhou_soft",
@@ -1283,9 +1087,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 15,
-      "flavor": "西北风味。",
-      "ciggies_sku": "3612",
-      "image_url": "https://www.ciggies.app/api/img/products/202506141617580140.jpg"
+      "flavor": "西北风味。"
     },
     {
       "id": "lanzhou_hard",
@@ -1296,9 +1098,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 18,
-      "flavor": "硬兰州。",
-      "ciggies_sku": "3571",
-      "image_url": "https://www.ciggies.app/api/img/products/202411051317476450.jpg"
+      "flavor": "硬兰州。"
     },
     {
       "id": "lanzhou_feitian",
@@ -1309,9 +1109,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 35,
-      "flavor": "飞天。",
-      "ciggies_sku": "3492",
-      "image_url": "https://www.ciggies.app/api/img/products/202302170025023880.png"
+      "flavor": "飞天。"
     },
     {
       "id": "changbaishan_soft",
@@ -1322,9 +1120,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "东北的骄傲。",
-      "ciggies_sku": "3643",
-      "image_url": "https://www.ciggies.app/api/img/products/202509281904249570.jpg"
+      "flavor": "东北的骄傲。"
     },
     {
       "id": "changbaishan_shengjing",
@@ -1335,9 +1131,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 28,
-      "flavor": "圣境。",
-      "ciggies_sku": "3586",
-      "image_url": "https://www.ciggies.app/api/img/products/202412300010258200.jpg"
+      "flavor": "圣境。"
     },
     {
       "id": "dahongying_soft",
@@ -1348,9 +1142,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "鹰击长空。",
-      "ciggies_sku": "1024",
-      "image_url": "https://www.ciggies.app/api/img/products/20090701124339.jpg"
+      "flavor": "鹰击长空。"
     },
     {
       "id": "dahongying_hard",
@@ -1361,9 +1153,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 20,
-      "flavor": "新大红鹰。",
-      "ciggies_sku": "782",
-      "image_url": "https://www.ciggies.app/api/img/products/20070825134710.jpg"
+      "flavor": "新大红鹰。"
     },
     {
       "id": "jinsheng_soft",
@@ -1374,9 +1164,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 20,
-      "flavor": "江西名烟。",
-      "ciggies_sku": "3613",
-      "image_url": "https://www.ciggies.app/api/img/products/202506161658144720.jpg"
+      "flavor": "江西名烟。"
     },
     {
       "id": "jinsheng_jinggangshan",
@@ -1387,9 +1175,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 32,
-      "flavor": "井冈山。",
-      "ciggies_sku": "3560",
-      "image_url": "https://www.ciggies.app/api/img/products/202409012342553700.png"
+      "flavor": "井冈山。"
     },
     {
       "id": "haomao_soft",
@@ -1400,9 +1186,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "陕西特产。",
-      "ciggies_sku": "3685",
-      "image_url": "https://www.ciggies.app/api/img/products/202405280113394500.jpg"
+      "flavor": "陕西特产。"
     },
     {
       "id": "haomao_changan",
@@ -1413,9 +1197,7 @@
       "rarity": 4,
       "baseScore": 42,
       "price": 100,
-      "flavor": "长安。",
-      "ciggies_sku": "3667",
-      "image_url": "https://www.ciggies.app/api/img/products/202601132137431980.jpg"
+      "flavor": "长安。"
     },
     {
       "id": "zhenlong_soft",
@@ -1426,9 +1208,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "广西名烟。",
-      "ciggies_sku": "3681",
-      "image_url": "https://www.ciggies.app/api/img/products/2021012314245457.png"
+      "flavor": "广西名烟。"
     },
     {
       "id": "zhenlong_haixun",
@@ -1439,9 +1219,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 26,
-      "flavor": "海韵。",
-      "ciggies_sku": "3665",
-      "image_url": "https://www.ciggies.app/api/img/products/202601112143494790.jpg"
+      "flavor": "海韵。"
     },
     {
       "id": "zhenlong_jinyun",
@@ -1452,9 +1230,7 @@
       "rarity": 4,
       "baseScore": 40,
       "price": 85,
-      "flavor": "金韵。",
-      "ciggies_sku": "3625",
-      "image_url": "https://www.ciggies.app/api/img/products/202508010934020460.jpg"
+      "flavor": "金韵。"
     },
     {
       "id": "mudan_soft",
@@ -1465,9 +1241,7 @@
       "rarity": 1,
       "baseScore": 12,
       "price": 10,
-      "flavor": "国色天香。",
-      "ciggies_sku": "3663",
-      "image_url": "https://www.ciggies.app/api/img/products/202601021102453820.png"
+      "flavor": "国色天香。"
     },
     {
       "id": "mudan_hard",
@@ -1478,9 +1252,7 @@
       "rarity": 1,
       "baseScore": 14,
       "price": 12,
-      "flavor": "经典牡丹。",
-      "ciggies_sku": "3644",
-      "image_url": "https://www.ciggies.app/api/img/products/202509282205101350.png"
+      "flavor": "经典牡丹。"
     },
     {
       "id": "mudan_middle",
@@ -1491,9 +1263,7 @@
       "rarity": 2,
       "baseScore": 22,
       "price": 23,
-      "flavor": "硬中支。",
-      "ciggies_sku": "3641",
-      "image_url": "https://www.ciggies.app/api/img/products/202509182224224480.png"
+      "flavor": "硬中支。"
     },
     {
       "id": "diamond_soft",
@@ -1504,9 +1274,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 15,
-      "flavor": "璀璨夺目。",
-      "ciggies_sku": "3548",
-      "image_url": "https://www.ciggies.app/api/img/products/202402060109063770.jpg"
+      "flavor": "璀璨夺目。"
     },
     {
       "id": "diamond_hard",
@@ -1517,9 +1285,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 18,
-      "flavor": "硬钻石。",
-      "ciggies_sku": "3547",
-      "image_url": "https://www.ciggies.app/api/img/products/202402060008015530.png"
+      "flavor": "硬钻石。"
     },
     {
       "id": "diamond_ruan",
@@ -1530,9 +1296,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 35,
-      "flavor": "玫瑰软。",
-      "ciggies_sku": "3433",
-      "image_url": "https://www.ciggies.app/api/img/products/2022011022162924.png"
+      "flavor": "玫瑰软。"
     },
     {
       "id": "jiangjun_soft",
@@ -1543,9 +1307,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "将军气概。",
-      "ciggies_sku": "3297",
-      "image_url": "https://www.ciggies.app/api/img/products/2020042402302766.png"
+      "flavor": "将军气概。"
     },
     {
       "id": "jiangjun_zhanshen",
@@ -1556,9 +1318,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 32,
-      "flavor": "战神。",
-      "ciggies_sku": "3078",
-      "image_url": "https://www.ciggies.app/api/img/products/2018082620454742.png"
+      "flavor": "战神。"
     },
     {
       "id": "honghe_soft",
@@ -1569,9 +1329,7 @@
       "rarity": 1,
       "baseScore": 12,
       "price": 10,
-      "flavor": "红河谷的风。",
-      "ciggies_sku": "3401",
-      "image_url": "https://www.ciggies.app/api/img/products/2021041410304554.png"
+      "flavor": "红河谷的风。"
     },
     {
       "id": "honghe_v8",
@@ -1582,9 +1340,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 18,
-      "flavor": "V8。",
-      "ciggies_sku": "3039",
-      "image_url": "https://www.ciggies.app/api/img/products/2018071423075406.png"
+      "flavor": "V8。"
     },
     {
       "id": "yanan_soft",
@@ -1595,9 +1351,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "革命圣地。",
-      "ciggies_sku": "3527",
-      "image_url": "https://www.ciggies.app/api/img/products/202311120004459720.png"
+      "flavor": "革命圣地。"
     },
     {
       "id": "yanan_1935",
@@ -1608,9 +1362,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 38,
-      "flavor": "1935。",
-      "ciggies_sku": "3526",
-      "image_url": "https://www.ciggies.app/api/img/products/202311112339077830.png"
+      "flavor": "1935。"
     },
     {
       "id": "renmin_soft",
@@ -1621,9 +1373,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 35,
-      "flavor": "国宴用烟。",
-      "ciggies_sku": "3566",
-      "image_url": "https://www.ciggies.app/api/img/products/202410202223042060.jpg"
+      "flavor": "国宴用烟。"
     },
     {
       "id": "renmin_guobin",
@@ -1634,9 +1384,7 @@
       "rarity": 4,
       "baseScore": 42,
       "price": 80,
-      "flavor": "国宾。",
-      "ciggies_sku": "3496",
-      "image_url": "https://www.ciggies.app/api/img/products/202302220022074340.png"
+      "flavor": "国宾。"
     },
     {
       "id": "dongchongxiacao_soft",
@@ -1647,9 +1395,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 40,
-      "flavor": "养生烟草。",
-      "ciggies_sku": "3627",
-      "image_url": "https://www.ciggies.app/api/img/products/202508180020510580.png"
+      "flavor": "养生烟草。"
     },
     {
       "id": "dongchongxiacao_slim",
@@ -1660,9 +1406,7 @@
       "rarity": 3,
       "baseScore": 32,
       "price": 40,
-      "flavor": "细支版。",
-      "ciggies_sku": "3597",
-      "image_url": "https://www.ciggies.app/api/img/products/202504122210528120.jpg"
+      "flavor": "细支版。"
     },
     {
       "id": "zhongjin_soft",
@@ -1673,9 +1417,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 15,
-      "flavor": "金龙腾飞。",
-      "ciggies_sku": "3310",
-      "image_url": "https://www.ciggies.app/api/img/products/2020051922082969.png"
+      "flavor": "金龙腾飞。"
     },
     {
       "id": "zhongjin_ruanyu",
@@ -1686,9 +1428,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 20,
-      "flavor": "软玉。",
-      "ciggies_sku": "3309",
-      "image_url": "https://www.ciggies.app/api/img/products/2020051921410623.jpg"
+      "flavor": "软玉。"
     },
     {
       "id": "marlboro_red",
@@ -1699,9 +1439,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 22,
-      "flavor": "Come to where the flavor is.",
-      "ciggies_sku": "3621",
-      "image_url": "https://www.ciggies.app/api/img/products/202507131022299420.jpg"
+      "flavor": "Come to where the flavor is."
     },
     {
       "id": "marlboro_gold",
@@ -1712,9 +1450,7 @@
       "rarity": 2,
       "baseScore": 22,
       "price": 25,
-      "flavor": "金标。",
-      "ciggies_sku": "3372",
-      "image_url": "https://www.ciggies.app/api/img/products/2021012215491763.png"
+      "flavor": "金标。"
     },
     {
       "id": "marlboro_ice",
@@ -1725,9 +1461,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 30,
-      "flavor": "冰蓝爆珠。",
-      "ciggies_sku": "3364",
-      "image_url": "https://www.ciggies.app/api/img/products/2021011312470929.png"
+      "flavor": "冰蓝爆珠。"
     },
     {
       "id": "camel_original",
@@ -1738,9 +1472,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 22,
-      "flavor": "沙漠骆驼。",
-      "ciggies_sku": "3085",
-      "image_url": "https://www.ciggies.app/api/img/products/2018090319522875.png"
+      "flavor": "沙漠骆驼。"
     },
     {
       "id": "camel_blue",
@@ -1751,9 +1483,7 @@
       "rarity": 2,
       "baseScore": 22,
       "price": 24,
-      "flavor": "蓝骆驼。",
-      "ciggies_sku": "3084",
-      "image_url": "https://www.ciggies.app/api/img/products/2018090316134339.png"
+      "flavor": "蓝骆驼。"
     },
     {
       "id": "davidoff_gold",
@@ -1764,9 +1494,7 @@
       "rarity": 3,
       "baseScore": 28,
       "price": 40,
-      "flavor": "瑞士品质。",
-      "ciggies_sku": "3371",
-      "image_url": "https://www.ciggies.app/api/img/products/2021011721282094.png"
+      "flavor": "瑞士品质。"
     },
     {
       "id": "davidoff_slim",
@@ -1777,9 +1505,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 45,
-      "flavor": "细支版。",
-      "ciggies_sku": "3369",
-      "image_url": "https://www.ciggies.app/api/img/products/2021011713382793.png"
+      "flavor": "细支版。"
     },
     {
       "id": "esse_slim",
@@ -1790,9 +1516,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 18,
-      "flavor": "韩国细支。",
-      "ciggies_sku": "3382",
-      "image_url": "https://www.ciggies.app/api/img/products/2021021122415685.png"
+      "flavor": "韩国细支。"
     },
     {
       "id": "esse_change",
@@ -1803,9 +1527,7 @@
       "rarity": 2,
       "baseScore": 22,
       "price": 25,
-      "flavor": "爆珠版。",
-      "ciggies_sku": "2287",
-      "image_url": "https://www.ciggies.app/api/img/products/2020122020251633.jpg"
+      "flavor": "爆珠版。"
     },
     {
       "id": "mevius_soft",
@@ -1816,9 +1538,7 @@
       "rarity": 2,
       "baseScore": 20,
       "price": 22,
-      "flavor": "日本七星。",
-      "ciggies_sku": "3055",
-      "image_url": "https://www.ciggies.app/api/img/products/2018081016042684.png"
+      "flavor": "日本七星。"
     },
     {
       "id": "mevius_option",
@@ -1829,9 +1549,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 32,
-      "flavor": "Option爆珠。",
-      "ciggies_sku": "3054",
-      "image_url": "https://www.ciggies.app/api/img/products/2018080717302959.png"
+      "flavor": "Option爆珠。"
     },
     {
       "id": "parliament_blue",
@@ -1842,9 +1560,7 @@
       "rarity": 2,
       "baseScore": 22,
       "price": 25,
-      "flavor": "美国经典。",
-      "ciggies_sku": "2163",
-      "image_url": "https://www.ciggies.app/api/img/products/20150529023812.jpg"
+      "flavor": "美国经典。"
     },
     {
       "id": "dunhill_red",
@@ -1855,9 +1571,7 @@
       "rarity": 3,
       "baseScore": 26,
       "price": 35,
-      "flavor": "英伦绅士。",
-      "ciggies_sku": "2236",
-      "image_url": "https://www.ciggies.app/api/img/products/20151003023024.jpg"
+      "flavor": "英伦绅士。"
     },
     {
       "id": "sanwu_soft",
@@ -1868,9 +1582,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 18,
-      "flavor": "555。",
-      "ciggies_sku": "3061",
-      "image_url": "https://www.ciggies.app/api/img/products/2018081422021903.jpg"
+      "flavor": "555。"
     },
     {
       "id": "sanwu_gold",
@@ -1881,9 +1593,7 @@
       "rarity": 2,
       "baseScore": 22,
       "price": 25,
-      "flavor": "金三五。",
-      "ciggies_sku": "3021",
-      "image_url": "https://www.ciggies.app/api/img/products/2018062322174759.png"
+      "flavor": "金三五。"
     },
     {
       "id": "changcheng_cigar",
@@ -1894,9 +1604,7 @@
       "rarity": 3,
       "baseScore": 30,
       "price": 50,
-      "flavor": "国产雪茄。",
-      "ciggies_sku": "3599",
-      "image_url": "https://www.ciggies.app/api/img/products/202504230017093260.jpg"
+      "flavor": "国产雪茄。"
     },
     {
       "id": "changcheng_132",
@@ -1907,9 +1615,7 @@
       "rarity": 4,
       "baseScore": 42,
       "price": 100,
-      "flavor": "132雪茄。",
-      "ciggies_sku": "3542",
-      "image_url": "https://www.ciggies.app/api/img/products/202401301434098760.png"
+      "flavor": "132雪茄。"
     },
     {
       "id": "cohiba_siglo",
@@ -1920,9 +1626,7 @@
       "rarity": 5,
       "baseScore": 60,
       "price": 200,
-      "flavor": "古巴国宝。",
-      "ciggies_sku": "3221",
-      "image_url": "https://www.ciggies.app/api/img/products/2019052602392991.png"
+      "flavor": "古巴国宝。"
     },
     {
       "id": "wangguan_captain",
@@ -1933,9 +1637,7 @@
       "rarity": 4,
       "baseScore": 45,
       "price": 240,
-      "flavor": "假日船长。",
-      "ciggies_sku": "3677",
-      "image_url": "https://www.ciggies.app/api/img/products/2019120123363349.png"
+      "flavor": "假日船长。"
     },
     {
       "id": "lushan_soft",
@@ -1946,9 +1648,7 @@
       "rarity": 2,
       "baseScore": 18,
       "price": 16,
-      "flavor": "望庐山瀑布。",
-      "ciggies_sku": "2176",
-      "image_url": "https://www.ciggies.app/api/img/products/20150603014703.jpg"
+      "flavor": "望庐山瀑布。"
     }
   ]
 }

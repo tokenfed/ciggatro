@@ -1,0 +1,10 @@
+# Game saves (user-specific)
+saves/
+
+# Temp scripts
+*.js
+
+# Intermediate data files
+ciggies-products.json
+cards-matched.json
+cards-with-images.json
