@@ -282,18 +282,38 @@ Brand combos give even higher bonuses!
 ## 🖼️ Display Modes
 
 ### Image Mode (imageMode: true)
-- Send each card with `message` tool + `media` parameter
-- Use `image_url` from cards.json
-- Slower but visually rich
+
+**显示手牌时，把图片 URL 直接嵌入消息：**
+
+```
+🃏 你的手牌：
+
+[1] 🚬 中华（硬）★★★★★
+    上海 · 00s · 烤烟 · 基础分: 50
+    https://www.ciggies.app/api/img/products/20050829150956.jpg
+
+[2] 🚬 玉溪（软）★★★
+    云南 · 10s · 烤烟 · 基础分: 30
+    https://www.ciggies.app/api/img/products/20050829151818.jpg
+
+[3] 🚬 芙蓉王（硬）★★★
+    湖南 · 00s · 烤烟 · 基础分: 32
+    https://www.ciggies.app/api/img/products/20050811152412.jpg
+```
+
+**Discord/Telegram 会自动预览图片链接。**
+
+**或者用 embed 格式（更美观）：**
+每张卡单独一个 embed，包含图片、品牌、属性。
 
 ### Text Mode (imageMode: false)
-- Display cards as formatted text only
-- No image fetching, instant display
-- Example:
+- 纯文字，不显示图片链接
+- 速度快，适合弱网环境
+- 示例：
 ```
-[1] 🚬 中华（硬）★★★★★
-    上海 · 00s · 烤烟
-    基础分: 50
+[1] 🚬 中华（硬）★★★★★ | 上海 · 00s | 基础分: 50
+[2] 🚬 玉溪（软）★★★ | 云南 · 10s | 基础分: 30
+[3] 🚬 芙蓉王（硬）★★★ | 湖南 · 00s | 基础分: 32
 ```
 
 ### Switching modes mid-game
