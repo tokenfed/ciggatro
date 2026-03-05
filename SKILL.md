@@ -283,14 +283,15 @@ Brand combos give even higher bonuses!
 
 ### Image Mode (imageMode: true)
 
-**⚠️ 重要：分批发送，每批最多 4 张卡！**
+**核心原则：每张卡下方都放图片链接！**
 
-Discord/Telegram 只会预览前 4-5 个链接，所以必须分批发送消息。
+即使 Discord 不嵌入预览，用户也能点击链接查看。
 
 **规则：**
-1. 每条消息最多 4 张卡
+1. 每条消息最多 4 张卡（Discord embed 限制）
 2. 图片 URL 必须**单独一行**，**不能**放在代码块里
 3. 用 `message` 工具分批发送
+4. **无论是否能预览，链接必须保留**
 
 **正确格式（每条消息）：**
 
@@ -306,12 +307,22 @@ https://www.ciggies.app/api/img/products/202507301114199930.jpg
 *"云南烤烟的代表。"*
 https://www.ciggies.app/api/img/products/20060117165155.png
 
-（然后发第二条消息显示 5-8 张）
+**[3] 🚬 芙蓉王（硬）★★★**
+湖南 · 00s · 烤烟 · 基础分: 32
+*"芙蓉国里尽朝晖。"*
+https://www.ciggies.app/api/img/products/20051206113448.jpg
+
+**[4] 🚬 利群（软）★★**
+浙江 · 00s · 烤烟 · 基础分: 18
+*"商帮之选。"*
+https://www.ciggies.app/api/img/products/20050913105155.jpg
+
+（然后发第二条消息显示 5-8 张，格式相同）
 
 **❌ 错误示范：**
 - 把 URL 放在 ``` 代码块里（不会预览）
 - 把 URL 放在 `<>` 角括号里（会抑制预览）
-- 一条消息塞 8 张卡（后面的不会预览）
+- 省略链接（用户无法点击查看）
 
 ### Text Mode (imageMode: false)
 - 纯文字，不显示图片链接
