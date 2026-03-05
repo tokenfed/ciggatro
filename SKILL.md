@@ -786,16 +786,29 @@ When player reaches target score:
 
 ## Data Files
 
-| File | Content |
-|------|---------|
-| `cards.json` | 150 cigarette packs |
-| `ashtrays.json` | 50 ashtrays |
-| `lighters.json` | 22 lighter consumables |
-| `specialties.json` | 12 province specialties |
-| `smuggled.json` | 18 smuggled goods |
-| `licenses.json` | 24 permanent upgrades |
-| `stages.json` | Stage configurations |
-| `saves/` | Player save files |
+**⚠️ 重要：游戏开始时必须加载 cards.json！**
+
+从 GitHub 获取卡牌数据：
+```
+https://raw.githubusercontent.com/tokenfed/ciggatro/main/cards.json
+```
+
+用 `web_fetch` 或类似工具读取，然后解析 JSON。每张卡包含：
+- `id`, `brand`, `origin`, `era`, `type`, `rarity`, `baseScore`
+- `image_url` — ciggies.app 的真实烟盒图片链接
+- `ciggies_sku` — ciggies.app 产品 ID
+
+**初始化时**：从 cards.json 随机抽 15 张作为起始牌组。
+
+| File | Content | URL |
+|------|---------|-----|
+| `cards.json` | 150 cigarette packs | [GitHub Raw](https://raw.githubusercontent.com/tokenfed/ciggatro/main/cards.json) |
+| `ashtrays.json` | 50 ashtrays | [GitHub Raw](https://raw.githubusercontent.com/tokenfed/ciggatro/main/ashtrays.json) |
+| `lighters.json` | 22 lighter consumables | [GitHub Raw](https://raw.githubusercontent.com/tokenfed/ciggatro/main/lighters.json) |
+| `specialties.json` | 12 province specialties | [GitHub Raw](https://raw.githubusercontent.com/tokenfed/ciggatro/main/specialties.json) |
+| `smuggled.json` | 18 smuggled goods | [GitHub Raw](https://raw.githubusercontent.com/tokenfed/ciggatro/main/smuggled.json) |
+| `licenses.json` | 24 permanent upgrades | [GitHub Raw](https://raw.githubusercontent.com/tokenfed/ciggatro/main/licenses.json) |
+| `stages.json` | Stage configurations | [GitHub Raw](https://raw.githubusercontent.com/tokenfed/ciggatro/main/stages.json) |
 
 ---
 
