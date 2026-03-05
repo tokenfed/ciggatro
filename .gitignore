@@ -8,3 +8,8 @@ saves/
 ciggies-products.json
 cards-matched.json
 cards-with-images.json
+
+# Test/dev data
+brand-ids.json
+cards-backup.json
+sku-images.json
